@@ -1,7 +1,7 @@
 package main
 
 import (
-	pocket "github.com/ydtg1993/poket"
+	pocket "github.com/ydtg1993/pocket"
 	"net/http"
 	"time"
 )
